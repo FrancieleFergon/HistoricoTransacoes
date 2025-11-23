@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.titulo {
+    color: #629A82;
+    font-weight: bold;
+}
+
+.transacao-card {
+    background-color: #F8FAF9;
+    border-left: 6px solid #629A82;
+    border-radius: 6px;
+}
+
+.transacao-card p {
+    color: #4B4F4E;
+}
+
+.status {
+    color: #629A82;
+    font-weight: bold;
+}
