@@ -1,7 +1,7 @@
 Fintech Transações
 
-![Status do Projeto](https://img.shields.io)
-![Licença](https://img.shields.io)
+[Status do Projeto](https://img.shields.io)
+[Licença](https://img.shields.io)
 
 Uma solução robusta para o gerenciamento e processamento de transações financeiras digitais, focada em segurança, escalabilidade e performance.
 
