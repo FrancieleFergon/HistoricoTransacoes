@@ -1,4 +1,4 @@
-Fintech Transações
+Histórico de transações - Fintech
 
 [Status do Projeto](https://img.shields.io)
 [Licença](https://img.shields.io)
@@ -14,12 +14,3 @@ Este sistema foi desenvolvido para lidar com o fluxo completo de movimentações
 ✅ Cálculo de saldo em tempo real
 ✅ Validação de segurança contra fraudes
 
-##  Tecnologias Utilizadas
-*   **Linguagem:** [Sua Linguagem, ex: Node.js / Python / Java]
-*   **Banco de Dados:** [Ex: PostgreSQL / MongoDB]
-*   **Segurança:** JWT e Criptografia de ponta a ponta.
-
-## Como Instalar e Rodar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com
